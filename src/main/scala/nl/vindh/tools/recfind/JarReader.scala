@@ -1,4 +1,6 @@
-package nl.vindh.tools.recfind
+// TO BE REMOVED, moved to jar-tools repo
+
+/*package nl.vindh.tools.recfind
 
 import java.io.FileInputStream
 import java.util.zip.{ZipEntry, ZipInputStream}
@@ -39,3 +41,4 @@ object JarReader {
   }
 
 }
+*/
